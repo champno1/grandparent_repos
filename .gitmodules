@@ -1,0 +1,3 @@
+[submodule "parent1"]
+	path = parent1
+	url = https://github.com/champno1/parent_repos.git
